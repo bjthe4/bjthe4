@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 # Project links that I have done and currently working on:
- https://bjthe4.github.io/se_project_about-me/
- https://bjthe4.github.io/se_project_library/
- https://bjthe4.github.io/se_project_coffeeshop/
- https://bjthe4.github.io/se_project_aroundtheus/
+- https://bjthe4.github.io/se_project_about-me/
+- https://bjthe4.github.io/se_project_library/
+- https://bjthe4.github.io/se_project_coffeeshop/
+- https://bjthe4.github.io/se_project_aroundtheus/
  
 ### Connetect with me 
 https://www.linkedin.com/in/benedict-iroha-jr
