@@ -1,15 +1,16 @@
-### Hello there 👋, I'm Benedict Iroha an Upcoming Software engineer
+### Hello there 👋, I'm Benedict Iroha an Upcoming Software engineer currently in TripleTen bootcamp.
 
 
-**bjthe4/bjthe4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+** I graduated Texas State University witth a bachlors in Industrial engineering. I'm currently in TripleTen bootcamp with dreams and aspirations of becoming a software engineer. I started this journey in October 20223 and gained multiple of skills and working knowlege like Javascript, Advanced HTML, CSS, Figma, amd Vs Code. Before this I also was in another bootcamp where I learned Git, docker, Ansible, AWS, Jenkins, and terraform. My past experiences has guided me into this path and unravel my true ppassion for software engineering. 
                                                                       
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Advanced Javasript Console and making my webpage reponsive.  https://bjthe4.github.io/se_project_aroundtheus/
+- 🌱 I recently learned Advanced functions, event handlers, and elements with the programming language JavaScript.
+- 👯 I’m looking to collaborate on a future Web design that has to do with python and JavaScript.
+- 🤔 I’m looking fto becoming a better and much improved Software engineer.
+- ⚡ Fun fact **I love to connect with people and also love working out.
+
 # Project links that I have done and currently working on:
 - https://bjthe4.github.io/se_project_about-me/
 - https://bjthe4.github.io/se_project_library/
@@ -19,6 +20,8 @@ Here are some ideas to get you started:
 ### Connetect with me 
 https://www.linkedin.com/in/benedict-iroha-jr
 
+- 📫 How to reach me **bjthe4@gmail.com
+  
 # Language and Tools:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
