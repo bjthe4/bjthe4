@@ -9,7 +9,7 @@ I graduated at Texas State University witth a bachlors in Industrial engineering
 - 🌱 I recently learned Advanced functions, event handlers, and elements with the programming language JavaScript.
 - 👯 I’m looking to collaborate on a future Web design that has to do with python and JavaScript.
 - 🤔 I’m looking fto becoming a better and much improved Software engineer.
-- ⚡ Fun fact I love to connect with people and also love working out.
+- ⚡ Fun fact I love to connect with people and I also love working out.
 
 # Project links that I have done and currently working on:
 - https://bjthe4.github.io/se_project_about-me/
