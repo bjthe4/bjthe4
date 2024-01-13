@@ -1,4 +1,4 @@
-![7](https://github.com/bjthe4/bjthe4/assets/120154079/98d006db-4bf9-478e-b5b8-a512f3f4e162)![8](https://github.com/bjthe4/bjthe4/assets/120154079/bd8acc03-f768-4068-9b69-a81c1b166336)![4](https://github.com/bjthe4/bjthe4/assets/120154079/d5abe125-23bb-4208-a80b-eb690824d862)### Hello there 👋, I'm Benedict Iroha an Upcoming Software engineer
+### Hello there 👋, I'm Benedict Iroha an Upcoming Software engineer
 
 <!--
 **bjthe4/bjthe4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
