@@ -2,13 +2,6 @@
 
 
 **bjthe4/bjthe4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjthe4&show_icons=true&locale=en&layout=compact" alt="bjthe4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjthe4&show_icons=true&locale=en" alt="bjthe4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bjthe4&" alt="bjthe4" /></p>
                                                                       
 
 Here are some ideas to get you started:
