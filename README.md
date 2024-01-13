@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Benedict Iroha an Upcoming Software engineer
 
-<!--
+
 **bjthe4/bjthe4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,10 +15,9 @@ Here are some ideas to get you started:
  https://bjthe4.github.io/se_project_coffeeshop/
  https://bjthe4.github.io/se_project_aroundtheus/
  
-# Connetect with me 
+### Connetect with me 
 https://www.linkedin.com/in/benedict-iroha-jr
 
 # Language and Tools:
 
 
--->
