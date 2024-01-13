@@ -5,11 +5,11 @@
                                                                       
 
 
-- 🔭 I’m currently working on Advanced Javasript Console and making my webpage reponsive.  https://bjthe4.github.io/se_project_aroundtheus/
+- 🔭 I’m currently working on Advanced Javasript Console and making my webpage reponsive. https://bjthe4.github.io/se_project_aroundtheus/
 - 🌱 I recently learned Advanced functions, event handlers, and elements with the programming language JavaScript.
 - 👯 I’m looking to collaborate on a future Web design that has to do with python and JavaScript.
 - 🤔 I’m looking fto becoming a better and much improved Software engineer.
-- ⚡ Fun fact **I love to connect with people and also love working out.
+- ⚡ Fun fact I love to connect with people and also love working out.
 
 # Project links that I have done and currently working on:
 - https://bjthe4.github.io/se_project_about-me/
@@ -20,7 +20,7 @@
 ### Connetect with me 
 https://www.linkedin.com/in/benedict-iroha-jr
 
-- 📫 How to reach me **bjthe4@gmail.com
+- 📫 How to reach me, bjthe4@gmail.com
   
 # Language and Tools:
 <h3 align="left">Connect with me:</h3>
