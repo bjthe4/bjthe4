@@ -1,7 +1,11 @@
 ### Hello there 👋, I'm Benedict Iroha an Upcoming Software engineer currently in TripleTen bootcamp.
 
 
-I graduated at Texas State University witth a bachlors in Industrial engineering. I'm currently in TripleTen bootcamp with dreams and aspirations of becoming a software engineer. I started this journey in January 2022 and gained multiple of skills and working knowlege skillset that includes Javascript, Advanced HTML, CSS, Figma, amd Vs Code. Before this I also was in another bootcamp where I learned Git, docker, Ansible, AWS, Jenkins, and terraform. My past experiences has guided me into this path and unraveled my true passion for software engineering. 
+I graduated from Texas State University with a bachelor's degree in Industrial Engineering. My educational background provided me with a strong foundation in problem-solving and analytical thinking, which has been invaluable in my career journey.
+
+Currently, I am enrolled in the TripleTen bootcamp, where I am pursuing my passion for software engineering. Since starting in January 2022, I have developed a comprehensive skill set, including proficiency in JavaScript, advanced HTML, CSS, Figma, and VS Code. These tools have allowed me to create dynamic and visually appealing web applications.
+
+Prior to this, I participated in another bootcamp, where I gained hands-on experience with essential technologies such as Git, Docker, Ansible, AWS, Jenkins, and Terraform. This experience equipped me with the knowledge of modern development and deployment practices, crucial for building scalable and efficient software solutions.
                                                                       
 
 
