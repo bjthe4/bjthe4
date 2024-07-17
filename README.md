@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Benedict Iroha an Upcoming Software engineer.
+### Hello there 👋, I'm Benedict Iroha an aspiring Software engineer.
 
 
 I graduated from Texas State University with a bachelor's degree in Industrial Engineering. My educational background provided me with a strong foundation in problem-solving and analytical thinking, which has been invaluable in my career journey.
