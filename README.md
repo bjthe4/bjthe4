@@ -9,7 +9,7 @@ Prior to this, I participated in another bootcamp, where I gained hands-on exper
                                                                       
 
 
-- 🔭 I’m currently working on Advanced Javasript APIS and React. https://bjthe4.github.io/se_project_aroundtheus/
+- 🔭 I’m currently working on Advanced Javasript with APIS and React. https://bjthe4.github.io/se_project_aroundtheus/
 - 🌱 I recently learned Advanced functions, event handlers, and elements with the programming language JavaScript.
 - 👯 I’m looking to collaborate on a future Web design that has to do with python and JavaScript.
 - 🤔 I’m looking fto becoming a better and much improved Software engineer.
