@@ -21,6 +21,7 @@ Prior to this, I participated in another bootcamp, where I gained hands-on exper
 - https://bjthe4.github.io/se_project_coffeeshop/
 - https://bjthe4.github.io/se_project_aroundtheus/
 - https://bjthe4.github.io/Cocktail_Chronicles/
+- https://bjthe4.github.io/se_project_react/
 ### Connetect with me 
 https://www.linkedin.com/in/benedict-iroha-jr
 
