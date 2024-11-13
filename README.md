@@ -9,10 +9,10 @@ Prior to this, I participated in another bootcamp, where I gained hands-on exper
                                                                       
 
 
-- 🔭 I’m currently working on Advanced Javasript with APIs and React. https://bjthe4.github.io/se_project_aroundtheus/
-- 🌱 I recently learned Advanced functions, event handlers, and elements with the programming language JavaScript.
-- 👯 I’m looking to collaborate on a future Web design that has to do with python and JavaScript.
-- 🤔 I’m looking fto becoming a better and much improved Software engineer.
+- 🔭 I’m currently working on fullstack application with RESTFUL APIs, Express, MongoDB and React. (https://github.com/bjthe4/se_project_react)
+- 🌱 I recently learned the Backend concepts of React with tools such as,  RESTFUL APIs, Postman, Express, NodeJs, and MongoDB.
+- 👯 I’m looking to collaborate on a future Web design that has to do with React, python JavaScript, HTML, and CSS.
+- 🤔 I’m looking foward to becoming a better and much improved Software engineer.
 - ⚡ Fun fact I love to connect with people and I also love working out.
 
 # Project links that I have done and currently working on:
