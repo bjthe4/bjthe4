@@ -1,19 +1,32 @@
-### Hello there 👋, I'm Benedict Iroha an aspiring Software engineer.
+### Hello there 👋, I'm Benedict Iroha — a Sales Engineer with a builder’s mindset.
 
 
-I graduated from Texas State University with a bachelor's degree in Industrial Engineering. My educational background provided me with a strong foundation in problem-solving and analytical thinking, which has been invaluable in my career journey.
+🎓 I graduated from Texas State University with a B.S. in Industrial Engineering, where I built the problem-solving mindset I now bring into every technical project and client conversation.
 
-Currently, I am enrolled in the TripleTen bootcamp, where I am pursuing my passion for software engineering. Since starting in January 2022, I have developed a comprehensive skill set, including proficiency in React, JavaScript, advanced HTML, CSS, Figma, and VS Code. These tools have allowed me to create dynamic and visually appealing web applications.
+I’m currently enrolled in the TripleTen bootcamp, where I’m building a strong foundation in frontend development and fullstack engineering. My training has covered React, JavaScript, advanced HTML/CSS, Figma, and VS Code — tools I’ve used to create dynamic and user-friendly web applications.
 
-Prior to this, I participated in another bootcamp, where I gained hands-on experience with essential technologies such as Git, Docker, Ansible, AWS, Jenkins, and Terraform. This experience equipped me with the knowledge of modern development and deployment practices, crucial for building scalable and efficient software solutions.
-                                                                      
+I also gained hands-on experience in a prior engineering bootcamp, working with tools like Git, Docker, Ansible, AWS, Jenkins, and Terraform. This equipped me with the knowledge of modern deployment practices essential for scalable, efficient software solutions.
 
+### 🛠 What I’m working on now:
+- Building a frontend app using React
+- Studying cloud tools and enablement workflows for Sales Engineering
+- Practicing technical storytelling through mock demos and product explainers
+– Exploring how technical demos and user education influence product adoption
 
-- 🔭 I’m currently working on fullstack application with RESTFUL APIs, Express, MongoDB and React. (https://github.com/bjthe4/se_project_react)
-- 🌱 I recently learned the Backend concepts of React with tools such as,  RESTFUL APIs, Postman, Express, NodeJs, and MongoDB.
-- 👯 I’m looking to collaborate on a future Web design that has to do with React, python JavaScript, HTML, and CSS.
-- 🤔 I’m looking foward to becoming a better and much improved Software engineer.
-- ⚡ Fun fact I love to connect with people and I also love working out.
+### 🌱 I’m passionate about:
+- **Bridging** the gap between tech and people
+- **Using empathy** + engineering to solve real-world problems
+- **Building** tools that actually help users
+
+### ✅ What I Have Done
+
+- Built a fullstack app using **React**, **Express**, **Node.js**, and **MongoDB**
+- Developed a frontend web app with **React**, **JavaScript**, **HTML/CSS**, and responsive UI design principles
+- Practiced advanced **object-oriented programming** and built modular, maintainable code
+- Integrated third-party APIs to add dynamic functionality and enhance user experience
+- Used **Postman** for API testing and **Git** for version control across collaborative projects
+- Created interactive interfaces focused on **user experience** and **accessibility**
+- Presented technical work through **project walkthroughs**, documentation, and demos
 
 # Project links that I have done and currently working on:
 - https://bjthe4.github.io/se_project_about-me/
