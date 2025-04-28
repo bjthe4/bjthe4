@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Benedict Iroha — a Sales Engineer with a builder’s mindset.
+### Hello there 👋, I'm Benedict Iroha — a Solutions Engineer with a builder’s mindset.
 
 
 🎓 I graduated from Texas State University with a B.S. in Industrial Engineering, where I built the problem-solving mindset I now bring into every technical project and client conversation.
