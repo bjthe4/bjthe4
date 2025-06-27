@@ -8,7 +8,7 @@ I’m currently enrolled in the TripleTen bootcamp, where I’m building a stron
 I also gained hands-on experience in a prior engineering bootcamp, working with tools like Git, Docker, Ansible, AWS, Jenkins, and Terraform. This equipped me with the knowledge of modern deployment practices essential for scalable, efficient software solutions.
 
 ### 🛠 What I’m working on now:
-- Building a frontend app using React
+- Building a frontend app using React, Javascript, and RESTful API
 - Studying cloud tools and enablement workflows for Sales Engineering
 - Practicing technical storytelling through mock demos and product explainers
 – Exploring how technical demos and user education influence product adoption
@@ -27,6 +27,7 @@ I also gained hands-on experience in a prior engineering bootcamp, working with 
 - Used **Postman** for API testing and **Git** for version control across collaborative projects
 - Created interactive interfaces focused on **user experience** and **accessibility**
 - Presented technical work through **project walkthroughs**, documentation, and demos
+- Participated in a front-end engineering externship focused on building a React-based Chrome extension; collaborated on features like dropdown components and login modals while learning Tailwind CSS, Storybook, and Git workflows in a fast-paced, team-based environment
 
 # Project links that I have done and currently working on:
 - https://bjthe4.github.io/se_project_about-me/
